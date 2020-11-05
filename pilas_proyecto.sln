@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructura de Datos", "Proyecto Pilas\Estructura de Datos.csproj", "{DC49003B-C241-4E5F-AB82-4A5C6567C344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC49003B-C241-4E5F-AB82-4A5C6567C344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC49003B-C241-4E5F-AB82-4A5C6567C344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC49003B-C241-4E5F-AB82-4A5C6567C344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC49003B-C241-4E5F-AB82-4A5C6567C344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74F09EE-D970-4C1C-AF88-B2846E6B0122}
+	EndGlobalSection
+EndGlobal
